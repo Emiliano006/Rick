@@ -16,5 +16,5 @@ export default (data) => {
     if(data.password.length < 6 || data.password.length > 10){
         errors.p2 = 'Longitud incorrecta'
     }
-    return errors
+    return errors;
 };
