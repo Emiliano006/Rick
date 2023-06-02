@@ -1,6 +1,8 @@
+
+
 const About = () =>{
     return (
-        <div>
+        <div className={style.contenedor}>
             
             <h1>¡Hola! Soy Emiliano, un estudiante de Henry de 21 años apasionado por la tecnología y el desarrollo web.
 
